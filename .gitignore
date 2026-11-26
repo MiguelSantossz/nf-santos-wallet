@@ -1,0 +1,15 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Cache e arquivos temporários do Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.coverage
+
+# Variáveis de ambiente reais e bancos locais
+.env
+*.sqlite3
+*.db
+*.env
