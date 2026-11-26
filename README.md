@@ -41,9 +41,11 @@ NF-SANTOS-WALLET-V2/
 
 ## Future Roadmap
 
-- Persistence with SQLite / PostgreSQL via repository pattern
-- REST API layer with FastAPI
-- Containerization with Docker
+- **Account Management:** Username and password update workflows, account deactivation/reactivation, and permanent account deletion
+- **Asset Operations:** Stock transfers between accounts
+- **Financial Calculations:** Dividend tracking, interest accrual, and capital gains tax calculation
+- **Persistence:** Database storage with SQLite / PostgreSQL via repository pattern
+- **API & Deployment:** REST API layer with FastAPI and containerization with Docker
 
 ## Getting Started
 
